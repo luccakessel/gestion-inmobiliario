@@ -1,0 +1,15 @@
+{
+  "name": "hockeysoul",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ "scripts": {
+  "dev": "vite --host"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^7.1.3"
+  }
+}
